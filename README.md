@@ -5,7 +5,7 @@
 
 ## Objectives
 
-This project embarks on an exploratory journey to investigate the effects of Ozempic, a medication primarily used for the treatment of obesity and hypertension, among patients aged 40-75. My research focuses on unraveling causal relationships and estimating the treatment effect of Ozempic, navigating through the challenges of endogeneity to ensure the accuracy of our findings.
+This project embarks on an exploratory journey to investigate the effects of Ozempic, a medication primarily used for the treatment of obesity and hypertension, among patients aged 40-75. My research focuses on utilizing Machine Learning models, unraveling causal relationships and estimating the treatment effect of Ozempic, navigating through the challenges of endogeneity to ensure the accuracy of our findings.
 
 ## Datasets
 
