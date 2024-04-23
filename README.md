@@ -11,7 +11,7 @@ This project embarks on an exploratory journey to investigate the effects of Oze
 
 - **Medical Claims Data**: This dataset contains detailed records of medical services rendered to the specified patient group, reflecting the complexity and depth of healthcare interactions. (623525 entires(27377 patients))
 
-- **Prescription Data**: A focused subset of the Medical Claims dataset, detailing the prescriptions dispensed, which provides a closer look at the medication regimen followed by the patients.
+- **Prescription Data**: A focused subset of the Medical Claims dataset, detailing the prescriptions dispensed, which provides a closer look at the medication regimen followed by the patients.(894623 entires(14832 patients))
 
 ## Project Methodology
 
